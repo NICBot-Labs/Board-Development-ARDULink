@@ -1,6 +1,6 @@
 ARDULink adalah Development Board Microcontroller berbasis ESP32 yang dipadukan dengan  chip tambahan ATmega328,board ini dirancang khusus untuk pembelajaran, riset, serta pengembangan proyek Internet of Things (IoT) dan sistem tertanam (embedded system) di lingkungan Universitas Nahdlatul Ulama Blitar maupun lainya
 
-#Fitur Utama ArduLink
+# Fitur Utama ArduLink
 
 1. Sistem Dual Mikrokontroler dengan total  3 Core
 * Menggabungkan **ESP32 (Dual-Core)** dan **ATmega328P (Single-Core)** dalam satu PCB.
