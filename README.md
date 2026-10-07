@@ -32,3 +32,8 @@ Fitur Utama ArduLink
 
 10. Dual Port USB Type-C
 * Dilengkapi dua port Type-C terpisah yang memudahkan proses *upload* program, pemrograman paralel, maupun *debugging* pada masing-masing mikrokontroler secara independen.
+
+
+#
+<img width="910" height="713" alt="image" src="https://github.com/user-attachments/assets/9e79f3c7-57ee-4a3c-9aa2-c76950e423ff" />
+
