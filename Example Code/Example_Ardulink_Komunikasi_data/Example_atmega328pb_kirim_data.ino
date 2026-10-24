@@ -4,8 +4,8 @@
 
 #include <SoftwareSerial.h>              // LIBRARY SERIAL VIA SOFTWARE (PIN BEBAS)
 
-const uint8_t PIN_RX = 9;                // D9 = RX ATMEGA (DARI TX ESP32)
-const uint8_t PIN_TX = 8;                // D8 = TX ATMEGA (KE RX ESP32)
+const uint8_t PIN_RX = 8;                // D9 = RX ATMEGA (DARI TX ESP32)
+const uint8_t PIN_TX = 9;                // D8 = TX ATMEGA (KE RX ESP32)
 
 SoftwareSerial espSerial(PIN_RX, PIN_TX); // OBJEK SERIAL KE ESP32 (URUTAN: RX, TX)
 
